@@ -1,4 +1,4 @@
-status=red
-amount=1000
-days=0
-message= pay up
+status=green
+amount=0
+days=
+message=
